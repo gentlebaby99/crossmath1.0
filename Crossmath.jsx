@@ -1,5 +1,3 @@
-# crossmath1.0
-Cross math game for Primary school
 import React, { useState, useEffect, useCallback } from 'react';
 import { Trophy, Clock, Star, Play, RotateCcw, User, ChevronRight, Delete, Award, Home, GraduationCap, CheckCircle2 } from 'lucide-react';
 
